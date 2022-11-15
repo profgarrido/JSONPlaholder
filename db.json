@@ -1,3 +1,7 @@
 {
-	
+	"banners": [
+		{"id": 1, "name": "carnes suínas", "src": "https://st3.depositphotos.com/4590583/18469/i/450/depositphotos_184698804-stock-photo-healthy-food-raw-meat-avocado.jpg", "link": ""},
+		{"id": 2, "name": "ingredintes", "src": "https://st3.depositphotos.com/1194063/15686/i/450/depositphotos_156864962-stock-photo-various-herbs-and-spices.jpg", "link": ""},
+		{"id": 2, "name": "ingredintes 2", "src": "https://st3.depositphotos.com/1194063/19291/i/450/depositphotos_192917748-stock-photo-various-herbs-and-spices.jpg", "link": ""}
+	]
 }
