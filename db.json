@@ -110,5 +110,97 @@
         "Se estrogonofe de carne de sol está pronto para servir."
       ]
     }
+  ],
+  "indication-recipes": [
+    {
+      "id": 1,
+      "img": "https://s2.glbimg.com/lj9JgL83DGkWO5XnIiUEBgYgnf8=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/o/S/dAINY2TBuwginWyAhscg/sanduiche-de-frigideira.jpg",
+      "alt": "Sanduíche de frigideira com ovo",
+      "name": "Sanduíche de frigideira com ovo",
+      "description": "Como fazer sanduíche de frigideira com ovo, presunto, queijo, tomate, cream cheese, manteiga e salsinha: veja esta receita prática para o lanche.",
+      "link": "",
+      "ingredients": [
+        "3 fatias de pão de forma",
+        "3 ovos",
+        "2 fatias de presunto",
+        "4 fatias de queijo muçarela",
+        "Meio tomate cortado em rodelas",
+        "2 colheres de sopa de cream cheese",
+        "1 colher de sopa de salsinha picada",
+        "25 mililitros de óleo",
+        "Sal a gosto",
+        "Pimenta-do-reino a gosto"
+      ],
+      "preparationMethod": [
+        "Em uma tigela, coloque os 3 ovos, 1 pitada de sal, pimenta-do-reino a gosto e salsinha picada a gosto.",
+        "Bata bem, misturando todos os ingredientes.",
+        "Reserve.",
+        "Retire as cascas de 3 fatias de pão de forma.",
+        "Passe cream cheese em cada uma das fatias.",
+        "Sobre cada fatia, coloque queijo muçarela, presunto e tomate cortado em rodelas.",
+        "Cubra com queijo muçarela, intercalando as os ingredientes."
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://s2.glbimg.com/sfv4AhTr5yPTkdQhaKOAfu6qi9c=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/r/M/bGOc3qRaycRSnYV3ArOw/cheesecake-mineira.jpg",
+      "alt": "Cheesecake mineira",
+      "name": "Cheesecake mineira",
+      "description": "Receita de cheesecake mineira leva queijo minas na massa e doce de leite na cobertura: confira a como fazer a sobremesa simples com apenas 5 ingredientes.",
+      "link": "",
+      "ingredients": [
+        "400 gramas de queijo minas",
+        "395 gramas de leite condensado",
+        "400 gramas de doce de leite",
+        "4 ovos",
+        "1 pitada de sal"
+      ],
+      "preparationMethod": [
+        "No liquidificador, coloque 1 ovo, 395 gramas de leite condensado, 400 gramas de queijo minas e 1 pitada de sal.",
+        "Bata todos os ingredientes até a mistura ficar homogênea.",
+        "Despeje a massa em uma forma untada com óleo.",
+        "Leve ao forno preaquecido a 180 graus Célsius por 30 minutos.",
+        "Retire a massa assada do forno e desenforme.",
+        "Cubra com 400 gramas de doce de leite.",
+        "Sua cheesecake mineira está pronta!"
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://s2.glbimg.com/ljtW3G8dRG_9iLLs4hMmlRTAGm0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/0/n/yCj84QQJ6I6LqkVtRvWA/7t9a4765.jpg",
+      "alt": "Alfajor",
+      "name": "Alfajor",
+      "description": "Aprenda como fazer esse doce tradicional argentino, que leva choclocate e doc de leite e uma massa fofinha.",
+      "link": "",
+      "ingredients": [
+        "220 g de manteiga",
+        "220 g de açúcar",
+        "1 ovo",
+        "40 g de mel",
+        "10 colheres de chá de essência de baunilha",
+        "400 g de farinha de trigo",
+        "100 g de amido de milho",
+        "15 g de cacau em pó",
+        "5 g de bicarbonato de sódio",
+        "5 g de bicarbonato de amônio",
+        "5 g de fermento químico em pó",
+        "500 g de doce de leite para rechear",
+        "500 g de chocolate fracionado para banhar",
+        "2 colheres de óleo"
+      ],
+      "preparationMethod": [
+        "Na batedeira, bata a manteiga com o açúcar. Junte os ovos um a um, mel e essência.",
+        "Ainda na batedeira, junte os ingredientes secos misturados.",
+        "Embrulhe com plástico filme e deixe repousar por 20 minutos na geladeira.",
+        "Abra a massa com altura de 2mm e corte os discos. Atenção: não deixe a massa muito fina!",
+        "Coloque os discos na forma com papel manteiga. Importante deixar um espaço entre os discos, já que eles vão crescer.",
+        "Asse em forno pré-aquecido a temperatura de 170°C durante 5-10 minutos. O alfajor não deve dourar, somente assar.",
+        "É muito importante respeitar a temperatura do forno e o tempo que o alfajor deve assar. Como a temperatura é muito baixa, ele vai ficar uma bolacha dura e seca (não macia e fofa) e não vai crescer. Após os 10 minutos de forno, o alfajor vai parecer um pouco mole e é assim mesmo!",
+        "Deixe esfriar em temperatura ambiente.",
+        "Derreta o chocolate em banho maria e misture 2 colheres de óleo.",
+        "Recheie 2 bolachinhas com doce de leite e banhe em chocolate derretido.",
+        "Coloque as bolachinhas em uma grade para escorrer o chocolate em excesso, espere cristalizar e bom apetite!"
+      ]
+    }
   ]
 }
