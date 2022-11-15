@@ -1,7 +1,114 @@
 {
-	"banners": [
-		{"id": 1, "name": "carnes suínas", "src": "https://st3.depositphotos.com/4590583/18469/i/450/depositphotos_184698804-stock-photo-healthy-food-raw-meat-avocado.jpg", "link": ""},
-		{"id": 2, "name": "ingredintes", "src": "https://st3.depositphotos.com/1194063/15686/i/450/depositphotos_156864962-stock-photo-various-herbs-and-spices.jpg", "link": ""},
-		{"id": 2, "name": "ingredintes 2", "src": "https://st3.depositphotos.com/1194063/19291/i/450/depositphotos_192917748-stock-photo-various-herbs-and-spices.jpg", "link": ""}
-	]
+  "banners": [
+    {
+      "id": 1,
+      "name": "Carnes Suínas",
+      "src": "https://st3.depositphotos.com/4590583/18469/i/450/depositphotos_184698804-stock-photo-healthy-food-raw-meat-avocado.jpg",
+      "link": "",
+      "description": "Carne suína é saudável e uma ótima pedida para o Natal"
+    },
+    {
+      "id": 2,
+      "name": "Ingredintes e Temperos",
+      "src": "https://st3.depositphotos.com/1194063/15686/i/450/depositphotos_156864962-stock-photo-various-herbs-and-spices.jpg",
+      "link": "",
+      "description": "Aprenda a escolher ingredientes e temperos"
+    },
+    {
+      "id": 3,
+      "name": "Tempere sua comidas",
+      "src": "https://st3.depositphotos.com/1194063/19291/i/450/depositphotos_192917748-stock-photo-various-herbs-and-spices.jpg",
+      "link": "",
+      "description": "Aprenda a como harmonizar temperos em suas refeições"
+    }
+  ],
+  "recipes-highlights": [
+    {
+      "id": 1,
+      "img": "https://s2.glbimg.com/oCMqBxe4vhq1H4Xd5VYnO-au7Ms=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/P/G/fVwA2nRAyaFQ5lAl8yAg/minipizza-de-queijo-e-presunto.jpeg",
+      "alt": "Minipizza de queijo e presunto",
+      "name": "Minipizza de queijo e presunto",
+      "description": "A minipizza de queijo e presunto é fácil de fazer: massa fica pronta rápido e leva ingredientes simples. Confira a receita!",
+      "link": "",
+      "ingredients": [
+        "Uma e meia xícara de leite morno",
+        "60 gramas de manteiga derretida",
+        "1 colher de sopa de azeite",
+        "15 gramas de fermento biológico seco",
+        "1 colher de chá de sal",
+        "1 colher de chád de açúcar",
+        "500 gramas de farinha de trigo",
+        "4 colheres de sopa de farinha de trigo para abrir a massa",
+        "1 xícara de passata ou molho de tomate",
+        "1 pacote de presunto Soltíssimo Sadia",
+        "1 pacote de queijo prato Soltíssimo Sadia",
+        "1 ramo de orégano fresco"
+      ],
+      "preparationMethod": [
+        "Em uma tigela, coloque 1 e meia xícara de leite morno, 60 gramas de manteiga derretida e 1 colher de sopa de azeite. Misture.",
+        "Adicione 15 gramas de fermento biológico seco, 1 colher de chá de sal, 1 colher de chá de açúcar e 500 gramas de farinha de trigo.",
+        "Misture bem até virar uma massa.",
+        "Sobre uma mesa, polvilhe 2 colheres de sopa de farinha de trigo e coloque a massa.",
+        "Sove a massa até que ela fique lisa e depois deixe-a descansar por meia hora.",
+        "Polvilhe 2 colheres de sopa de farinha de trigo sobre uma mesa e coloque a massa, dividindo-a em 16 partes.",
+        "Abra os pedaços de massa com um rolo de macarrão e coloque-as em um tabuleiro.",
+        "Coloque passata ou molho de tomate nos círculos de massa e cubra com queijo prato e presunto Soltíssimo Sadia.",
+        "Asse em forno preaquecido a 260 graus por 15 minutos.",
+        "Finalize com orégano fresco."
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://s2.glbimg.com/_yhzia7P5XgbdveYeaaZmpmm5ME=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/x/y/eFx3s7SfWXPU3HXLSdXw/concept-of-tasty-food-pumpkin-jam-close-up.jpg",
+      "alt": "Doce de abóbora",
+      "name": "Doce de abóbora",
+      "description": "Uma ótima opção para sobremesa: confira como fazer este doce fácil",
+      "link": "",
+      "ingredients": [
+        "1 quilo de abóbora de pescoço",
+        "1 quilo de açúcar",
+        "5 cravos",
+        "7 paus de canela",
+        "Coco seco e ralado a gosto",
+        "Raspas de limão a gosto"
+      ],
+      "preparationMethod": [
+        "Cozinhe a abóbora até desmanchar, adicione 5 cravos e um pedaço de canela em pau;",
+        "Após cozido, retire os cravos e a canela, e amasse bem, retirando toda a água;",
+        "Acrescente o açúcar e deixe cozinhar até dar o ponto;",
+        "Finalize com coco ralado, raspas de limão e sirva."
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://s2.glbimg.com/KxZHXln1E_EAUVtKG0tyL5WDT2s=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/m/F/vOB7fNQKuxa513chydcw/estrogonofe-de-carne-de-sol.jpg",
+      "alt": "Estrogonofe de carne de sol",
+      "name": "Estrogonofe de carne de sol",
+      "description": "Como fazer estrogonofe de carne de sol simples, com alho, cebola, molho de tomate, creme de leite, molho inglês e cheiro-verde. Confira a receita completa!",
+      "link": "",
+      "ingredients": [
+        "500 gramas de carne de sol dessalgada cortada em tiras",
+        "200 gramas de creme de leite",
+        "1 dente de alho picado",
+        "Meia cebola picada",
+        "1 xícara de chá de molho de tomate",
+        "1 colher de sopa de molho inglês",
+        "Cheiro-verde picado a gosto",
+        "Pimenta-do-reino a gosto",
+        "Azeite a gosto",
+        "Sal a gosto"
+      ],
+      "preparationMethod": [
+        "Em uma panela, aqueça um fio de azeite.",
+        "Adicione meia cebola picada, 1 dente de alho picado e 500 gramas de carne de sol em tiras.",
+        "Mexa um pouco até os ingredientes se misturarem e deixe dourar em fogo alto.",
+        "Acrescente 1 xícara de molho de tomate e misture com os demais ingredientes.",
+        "Coloque 1 colher de sopa de molho inglês, pimenta-do-reino a gosto e sal a gosto.",
+        "Deixe refogar mais um pouquinho.",
+        "Adicione 200 gramas de creme de leite e misture bem.",
+        "Acrescente cheiro-verde a gosto, misture e desligue o fogo.",
+        "Se estrogonofe de carne de sol está pronto para servir."
+      ]
+    }
+  ]
 }
